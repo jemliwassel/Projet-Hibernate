@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8"/>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="lib" path="C:/work2020/testhibernate/lib/commons-collections-3.1.jar"/>
+	<classpathentry kind="lib" path="C:/work2020/testhibernate/lib/dom4j.jar"/>
+	<classpathentry kind="lib" path="C:/work2020/testhibernate/lib/hibernate3.jar"/>
+	<classpathentry kind="lib" path="C:/work2020/testhibernate/lib/javassist-3.11.0.GA.jar"/>
+	<classpathentry kind="lib" path="C:/work2020/testhibernate/lib/jta-1.1.jar"/>
+	<classpathentry kind="lib" path="C:/work2020/testhibernate/lib/log4j.jar"/>
+	<classpathentry kind="lib" path="C:/work2020/testhibernate/lib/mysql-connector-java-5.1.5-bin.jar"/>
+	<classpathentry kind="lib" path="C:/work2020/testhibernate/lib/slf4j-api-1.5.8.jar"/>
+	<classpathentry kind="lib" path="C:/work2020/testhibernate/lib/slf4j-log4j12-1.5.8.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
