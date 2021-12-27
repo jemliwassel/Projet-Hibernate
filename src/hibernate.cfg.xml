@@ -24,3 +24,5 @@
                
     </session-factory>
 </hibernate-configuration>
+
+<!--Fin hibernate configuration-->
